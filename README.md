@@ -2,6 +2,20 @@
 
 ###
 
+<h4 align="left">🚀 I'm currently...</h4>
+
+###
+
+<br clear="both">
+
+<img align="right" height="194" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVrYW44MTJobmJ1YnAyM2I3NXBqc2hjMHhpZzd0Mm4zMDA1cGhsbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JoOWFsAGWB0L2aSaA1/giphy.gif"  />
+
+###
+
+<p align="left">- 🔭 Building a custom system with Laravel 10, Vue JS, and MySQL  <br>- 🌱 Exploring microservices architecture with Laravel Octane and FrankenPHP  <br>- 🎯 Improving my skills in:  <br>  - Microservices with Laravel  <br>  - Docker & container orchestration  <br>  - DevOps (CI/CD, IaC)  <br>- 🔍 Researching:  <br>  - FrankenPHP for high-performance Laravel  <br>  - CI/CD optimization for Laravel deployments</p>
+
+###
+
 <br clear="both">
 
 <div align="left">
@@ -13,16 +27,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVrYW44MTJobmJ1YnAyM2I3NXBqc2hjMHhpZzd0Mm4zMDA1cGhsbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JoOWFsAGWB0L2aSaA1/giphy.gif"  />
-
-###
-
-<p align="left">## 🚀 I'm currently...<br><br>- 🔭 Building a custom system with Laravel 10, Vue JS, and MySQL  <br>- 🌱 Exploring microservices architecture with Laravel Octane and FrankenPHP  <br>- 🎯 Improving my skills in:  <br>  - Microservices with Laravel  <br>  - Docker & container orchestration  <br>  - DevOps (CI/CD, IaC)  <br>- 🔍 Researching:  <br>  - FrankenPHP for high-performance Laravel  <br>  - CI/CD optimization for Laravel deployments</p>
 
 ###
 
@@ -79,10 +83,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahardikasuryakusuma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahardikasuryakusuma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mahardikasuryakusuma&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="155" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahardikasuryakusuma&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahardikasuryakusuma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="161" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahardikasuryakusuma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="161" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mahardikasuryakusuma&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="161" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahardikasuryakusuma&radius=16&theme=dracula&area=true&order=5" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
