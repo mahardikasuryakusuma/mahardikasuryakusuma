@@ -2,16 +2,16 @@
 
 ###
 
-<p align="left"># 🚀 Personal Development Journey<br><br>Welcome to my development log! Here's a quick overview of what I'm currently working on and exploring in the world of software engineering.<br><br>## 🔭 Currently Building<br><br>I'm in the process of developing a **custom system** using:<br><br>- **Laravel 10** – PHP framework for building modern web applications<br>- **Vue JS** – Reactive frontend framework for dynamic UI<br>- **MySQL** – Reliable and scalable relational database<br><br>## 🌱 Currently Exploring<br><br>I'm diving deep into:<br><br>- **Microservices architecture**  <br>  Leveraging Laravel Octane and FrankenPHP for high-performance, service-oriented applications.<br>- **Docker containerization**  <br>  Creating reproducible and scalable environments for local development and production.<br>- **DevOps practices**  <br>  Implementing CI/CD pipelines and infrastructure as code to improve deployment reliability and speed.<br><br>## 🔍 Research Focus<br><br>Actively researching ways to optimize:<br><br>- **FrankenPHP**  <br>  Exploring how FrankenPHP enhances Laravel's performance in a production environment.<br>- **CI/CD Optimization**  <br>  Looking into best practices and tools to streamline Laravel deployment workflows.<br><br>---<br><br>Thanks for checking out what I'm up to! Feel free to connect or contribute if you find any of these areas interesting.</p>
-
-###
-
 <br clear="both">
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://instagram.com/hallodiik" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/mahardika-surya-kusuma/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -21,6 +21,12 @@
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVrYW44MTJobmJ1YnAyM2I3NXBqc2hjMHhpZzd0Mm4zMDA1cGhsbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JoOWFsAGWB0L2aSaA1/giphy.gif"  />
 
 ###
+
+<p align="left">## 🚀 I'm currently...<br><br>- 🔭 Building a custom system with Laravel 10, Vue JS, and MySQL  <br>- 🌱 Exploring microservices architecture with Laravel Octane and FrankenPHP  <br>- 🎯 Improving my skills in:  <br>  - Microservices with Laravel  <br>  - Docker & container orchestration  <br>  - DevOps (CI/CD, IaC)  <br>- 🔍 Researching:  <br>  - FrankenPHP for high-performance Laravel  <br>  - CI/CD optimization for Laravel deployments</p>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
